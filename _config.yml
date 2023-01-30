@@ -4,3 +4,6 @@ plugins:
 title: [The title of your site]
 description: [A short description of your site's purpose]
 show_downloads: ["false"]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: http://tahanimaturi.com
